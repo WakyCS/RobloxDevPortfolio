@@ -47,13 +47,13 @@ mediaButtons.forEach((mediaButton) => {
 });
 
 aboutMeButton.addEventListener("click", () => {
-  window.scrollTo({ left: 0, top: 520, behavior: "smooth" });
+  window.scrollTo({ left: 0, top: 570, behavior: "smooth" });
 });
 pricingButton.addEventListener("click", () => {
-  window.scrollTo({ left: 0, top: 1170, behavior: "smooth" });
+  window.scrollTo({ left: 0, top: 1400, behavior: "smooth" });
 });
 workButton.addEventListener("click", () => {
-  window.scrollTo({ left: 0, top: 1800, behavior: "smooth" });
+  window.scrollTo({ left: 0, top: 2000, behavior: "smooth" });
 });
 
 particlesJS("particles", {
