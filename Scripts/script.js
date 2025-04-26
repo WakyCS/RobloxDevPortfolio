@@ -47,7 +47,7 @@ mediaButtons.forEach((mediaButton) => {
 });
 
 aboutMeButton.addEventListener("click", () => {
-  window.scrollTo({ left: 0, top: 780, behavior: "smooth" });
+  window.scrollTo({ left: 0, top: 700, behavior: "smooth" });
 });
 pricingButton.addEventListener("click", () => {
   window.scrollTo({ left: 0, top: 1250, behavior: "smooth" });
