@@ -47,10 +47,10 @@ mediaButtons.forEach((mediaButton) => {
 });
 
 aboutMeButton.addEventListener("click", () => {
-  window.scrollTo({ left: 0, top: 700, behavior: "smooth" });
+  window.scrollTo({ left: 0, top: 780, behavior: "smooth" });
 });
 pricingButton.addEventListener("click", () => {
-  window.scrollTo({ left: 0, top: 1340, behavior: "smooth" });
+  window.scrollTo({ left: 0, top: 1250, behavior: "smooth" });
 });
 workButton.addEventListener("click", () => {
   window.scrollTo({ left: 0, top: 1900, behavior: "smooth" });
