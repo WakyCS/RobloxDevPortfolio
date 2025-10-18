@@ -55,7 +55,8 @@
 body {
     padding: 0.5%;
     z-index: auto;
-    background: linear-gradient(45deg, rgba(30, 30, 50, 1), rgba(50, 50, 60, 1), rgba(20, 20, 20, 1));
+    background-image: url("../Images/CodeBG.png");
+    background-repeat: repeat-y;
     height: auto;
 }
 .darkmode[class*="top-bar"] {
