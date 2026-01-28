@@ -109,6 +109,10 @@ body {
     text-align: center;
     display: block;
 }
+.bigItem {
+    font-size: 130%;
+    color:deepskyblue;
+}
 .content-bullet {
     padding: 0;
 }
